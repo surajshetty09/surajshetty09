@@ -2,6 +2,7 @@
 <br>
 <br>
 **Claude Sample Projects:**\
+[Nebula](https://surajshetty09.github.io/nebula/)<br>
 [Gravity Music](https://surajshetty09.github.io/gravity-music/)<br>
 [Aurora Clock](https://surajshetty09.github.io/aurora-clock/)<br>
 [Arcade](https://surajshetty09.github.io/arcade/)<br>
