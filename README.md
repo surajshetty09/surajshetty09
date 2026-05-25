@@ -2,6 +2,7 @@
 <br>
 <br>
 **Claude Sample Projects:**\
+[Muse](https://surajshetty09.github.io/muse/)<br>
 [Neon Blaster](https://surajshetty09.github.io/neon-blaster/)<br>
 [Prism](https://surajshetty09.github.io/prism/)<br>
 [Folio](https://surajshetty09.github.io/folio/)<br>
