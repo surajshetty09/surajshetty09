@@ -2,6 +2,7 @@
 <br>
 <br>
 **Claude Sample Projects:**\
+[Solar System 3D](https://surajshetty09.github.io/solar-system-3d/)<br>
 [Arcana](https://surajshetty09.github.io/arcana/)<br>
 [Flux](https://surajshetty09.github.io/flux/)<br>
 [Muse](https://surajshetty09.github.io/muse/)<br>
